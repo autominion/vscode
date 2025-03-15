@@ -1,4 +1,4 @@
-# VSCode Extension
+# autominion for VSCode
 
 VSCode extension for autominion
 
